@@ -1,2 +1,2 @@
-# chineseCatchReplace
-Grab the Chinese in the project and replace it
+# 中文抓取且替换
+抓取项目中控制器，模版，js目录的中文，翻译生成语言包文件，并将原来的中文替换成可切换中英文的字段.
